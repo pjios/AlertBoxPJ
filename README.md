@@ -17,7 +17,7 @@ TODO: First implement thia package in your pubsec.yaml file. after import it whi
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples to `/example` folder.
+TODO: use it with package in pubsec.yaml file and use it in dart file and show alert message view.
 
 ```dart
 const like = 'sample';
