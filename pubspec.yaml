@@ -1,6 +1,6 @@
 name: demo_native_app
 description: This is use for showing alert box with ok button
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/pjios/AlertBoxPJ.git
 
 environment:
