@@ -24,7 +24,7 @@ class AlertBoxPJ {
                 willDisplayWidget,
                 MaterialButton(
                   color: Colors.white30,
-                  child: const Text('close alert'),
+                  child: const Text('close alert 123'),
                   onPressed: () {
                     Navigator.of(context).pop();
                   },
