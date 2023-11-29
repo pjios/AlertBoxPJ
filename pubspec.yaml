@@ -1,9 +1,6 @@
 name: demo_native_app
 description: A new Flutter project.
 version: 0.0.1
-#author: pjios <iosdev.pj22@gmail.com>
-authors:
-  - iosdev.pj22@gmail.com
 homepage: https://github.com/pjios/AlertBoxPJ.git
 
 environment:
