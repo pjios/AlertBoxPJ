@@ -3,7 +3,7 @@ library demo_native_app;
 import 'package:flutter/material.dart';
 /// A Calculator.
 ///
-class Calculator {
+class AlertBoxPJ {
   /// Returns [value] plus 1.
   int addOne(int value) => value + 1;
   static Future showCustomAlertBox({
