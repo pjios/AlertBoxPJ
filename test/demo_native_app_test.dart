@@ -1,6 +1,3 @@
-import 'package:flutter_test/flutter_test.dart';
-
-import 'package:demo_native_app/demo_native_app.dart';
 
 void main() {
   // test('adds one to input values', () {
