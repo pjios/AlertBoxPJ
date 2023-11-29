@@ -1,7 +1,7 @@
 name: demo_native_app
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/pjios/AlertBoxPJ.git
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
