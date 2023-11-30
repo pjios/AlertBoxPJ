@@ -1,6 +1,6 @@
 name: demo_native_app
 description: This is use for showing alert box message with button.
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/pjios/AlertBoxPJ.git
 
 environment:

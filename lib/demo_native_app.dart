@@ -42,6 +42,7 @@ class AlertBoxPJ {
   static Future showCustomAlertBox({
     required BuildContext context,
     required Widget willDisplayWidget,
+    required String buttonName,
   }) {
     assert(context != null, "context is null!!");
     assert(willDisplayWidget != null, "willDisplayWidget is null!!");
@@ -58,7 +59,7 @@ class AlertBoxPJ {
                 willDisplayWidget,
                 MaterialButton(
                   color: Colors.white30,
-                  child: Text('close alert'),
+                  child: Text(buttonName),
                   onPressed: () {
                     Navigator.of(context).pop();
                   },
